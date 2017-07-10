@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.github.scopt:scopt_2.12:3.6.0" type="repository">
+    <properties maven-id="com.github.scopt:scopt_2.12:3.6.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scopt_2.12-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/scopt_2.12-3.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/scopt_2.12-3.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
