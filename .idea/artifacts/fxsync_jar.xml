@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fxsync:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fxsync_jar</output-path>
+    <root id="archive" name="fxsync.jar">
+      <element id="module-output" name="fxsync" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/scopt_2.12-3.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/scala-library-2.12.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../scala-2.12.2/scala-2.12.2/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../scala-2.12.2/scala-2.12.2/lib/scala-parser-combinators_2.12-1.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../scala-2.12.2/scala-2.12.2/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../scala-2.12.2/scala-2.12.2/lib/scala-swing_2.12-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../scala-2.12.2/scala-2.12.2/lib/scala-xml_2.12-1.0.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
